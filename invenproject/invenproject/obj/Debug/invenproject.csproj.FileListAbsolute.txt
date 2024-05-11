@@ -1,0 +1,11 @@
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\bin\Debug\invenproject.exe.config
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\bin\Debug\invenproject.exe
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\bin\Debug\invenproject.pdb
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\obj\Debug\invenproject.csproj.AssemblyReference.cache
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\obj\Debug\invenproject.Form1.resources
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\obj\Debug\invenproject.mainfrm.resources
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\obj\Debug\invenproject.Properties.Resources.resources
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\obj\Debug\invenproject.csproj.GenerateResource.cache
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\obj\Debug\invenproject.csproj.CoreCompileInputs.cache
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\obj\Debug\invenproject.exe
+C:\Users\jawadfelemban\source\repos\invenproject\invenproject\obj\Debug\invenproject.pdb
